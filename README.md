@@ -37,7 +37,7 @@ cd scanner-camaras-publicas
 
 Abre el archivo scanner_camaras.py y reemplaza esta línea:
 ``` python
-API_KEY = "TU_API_KEY_AQUI"
+API_KEY = "COLOCA_TU_API_KEY_AQUI"
 ```
 …con tu clave real de Shodan.
 
