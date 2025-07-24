@@ -144,10 +144,8 @@ El uso sin autorización puede violar leyes locales o internacionales. El autor 
 Este proyecto se publica bajo la Licencia MIT. Eres libre de usar, modificar y compartir el código, siempre que mantengas esta nota de atribución.
 
 👨‍💻 Autor
-💡 Desarrollado por: Josue Arias
+💡 Desarrollado por IA.
 
 🌐 GitHub: https://github.com/aa104007
-
-📧 Contacto (opcional): josue.arias.sv@gmail.com
 
 
